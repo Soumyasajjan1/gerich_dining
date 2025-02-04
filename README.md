@@ -1,12 +1,18 @@
 Gerich Dining
 
-A modern, fully responsive restaurant website built using React.js. This project is inspired by a high-end dining experience and features an elegant UI/UX design with smooth animations and interactive components.
+A modern, fully responsive restaurant website built using React.js. This project is inspired by a high-end dining experience and features an elegant UI/UX design with smooth 
+
+animations and interactive components.
 
 
 🚀 Features
+
 Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
+
 Reusable Components: Modular structure for better maintainability.
+
 Modern UI/UX: Sleek design with animations for a premium feel.
+
 React Best Practices: Uses functional components, props, and CSS modules for styling.
 
 
@@ -30,7 +36,9 @@ soumyasajjan1-gerich_dining/
 🛠️ Technologies Used
 
 React.js – Component-based UI development
+
 CSS Modules – Scoped styling for better maintainability
+
 Flexbox & Grid – Responsive layout design
 
 
@@ -39,6 +47,7 @@ Flexbox & Grid – Responsive layout design
 1.Clone the repository
 
 git clone https://github.com/soumyasajjan1-gerich_dining.git
+
 cd soumyasajjan1-gerich_dining
 
 2.Install dependencies
