@@ -19,16 +19,27 @@ React Best Practices: Uses functional components, props, and CSS modules for sty
 📂 Project Structure
 
 soumyasajjan1-gerich_dining/
+
 │── README.md
+
 │── package.json
+
 │── public/
+
 │── src/
+
 │   ├── assets/            # Images & static assets
+
 │   ├── components/        # UI components (Navbar, Footer, MenuItem, etc.)
+
 │   ├── constants/         # Static data (menu items, images, etc.)
+
 │   ├── container/         # Main sections (About, Header, Menu, etc.)
+
 │   ├── App.js             # Main application component
+
 │   ├── index.js           # Entry point of the application
+
 └── ...
 
 
